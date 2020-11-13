@@ -12,7 +12,7 @@ You can install the released version of metepf from Github
 
 ``` r
 library(devtools)
-install_github("precious95/metepf")
+install_github("precious95/precious")
 ```
 
 ## Example
