@@ -4,14 +4,15 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of metepf is to ...
+metepf package computes Energy Pattern Factor for any location ...
 
 ## Installation
 
-You can install the released version of metepf from [CRAN](https://CRAN.R-project.org) with:
+You can install the released version of metepf from Github
 
 ``` r
-install.packages("metepf")
+library(devtools)
+install_github("precious95/metepf")
 ```
 
 ## Example
