@@ -1,0 +1,17 @@
+Package: metepf
+Type: Package
+Title: Energy Pattern Factor Toolbox
+Version: 0.1.0
+Author: Aldophus and Precious
+Maintainer: Precious <ebiendeleprecious@yahoo.com>
+Description: metepf package caclulate Energy Pattern Factor from a
+    Ground based Station using its Derived Wind speed.
+imports:
+    dplyr
+    tidyr
+    lubridate
+Suggests:
+    ggplot2
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
